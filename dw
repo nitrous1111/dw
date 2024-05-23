@@ -13,7 +13,7 @@ if not isfile("Enore.wtf") then
     makefolder("Enore.wtf")
  end
  
- local menu = game:GetObjects("rbxassetid://17587698497")[1] 
+ local menu = game:GetObjects("rbxassetid://17587746574")[1] 
  local tabholder = menu.bg.bg.bg.bg.bg.bg.main.group;
  local tabviewer = menu.bg.bg.bg.bg.bg.bg.tabbuttons;
  for _, obj in pairs(menu:GetDescendants()) do
